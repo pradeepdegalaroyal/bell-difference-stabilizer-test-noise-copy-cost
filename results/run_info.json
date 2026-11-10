@@ -1,0 +1,21 @@
+{
+  "quick": false,
+  "seeds": [
+    0,
+    1,
+    2,
+    3,
+    4
+  ],
+  "ensemble_size_per_class": 24,
+  "n": 4,
+  "n_t": 1,
+  "reference_noise": {
+    "dephase": 0.005,
+    "depol": 0.005,
+    "readout": 0.005
+  },
+  "runtime_s": 749.0,
+  "python": "3.11.9",
+  "platform": "Windows-10-10.0.26300-SP0"
+}
