@@ -1,0 +1,181 @@
+seed,method,copies,error
+0,"Bell test, noise-aware threshold",60,0.3047052581085078
+0,"Bell test, noise-agnostic threshold",60,0.40655459295093627
+0,"Bell test, reference-calibrated",60,0.3783139446564489
+0,"Pauli shadows, noise-aware threshold",60,0.4305555555555556
+0,"Bell test, noise-aware threshold",120,0.23122602282901752
+0,"Bell test, noise-agnostic threshold",120,0.397480743963299
+0,"Bell test, reference-calibrated",120,0.345271706245056
+0,"Pauli shadows, noise-aware threshold",120,0.3888888888888889
+0,"Bell test, noise-aware threshold",240,0.1486608079935686
+0,"Bell test, noise-agnostic threshold",240,0.40764001331822647
+0,"Bell test, reference-calibrated",240,0.28516518229344934
+0,"Pauli shadows, noise-aware threshold",240,0.4444444444444444
+0,"Bell test, noise-aware threshold",480,0.07164001261554284
+0,"Bell test, noise-agnostic threshold",480,0.43218224053634
+0,"Bell test, reference-calibrated",480,0.21869219342703938
+0,"Pauli shadows, noise-aware threshold",480,0.3888888888888889
+0,"Bell test, noise-aware threshold",960,0.020575644367277234
+0,"Bell test, noise-agnostic threshold",960,0.4590470256152101
+0,"Bell test, reference-calibrated",960,0.16377574582283722
+0,"Pauli shadows, noise-aware threshold",960,0.3194444444444444
+0,"Bell test, noise-aware threshold",1920,0.0022852989067845093
+0,"Bell test, noise-agnostic threshold",1920,0.4830952346456855
+0,"Bell test, reference-calibrated",1920,0.10678447321949187
+0,"Pauli shadows, noise-aware threshold",1920,0.14583333333333331
+0,"Bell test, noise-aware threshold",3840,4.6374432014364854e-05
+0,"Bell test, noise-agnostic threshold",3840,0.4906697886251941
+0,"Bell test, reference-calibrated",3840,0.06399828899114067
+0,"Pauli shadows, noise-aware threshold",3840,0.0625
+0,"Bell test, noise-aware threshold",7680,3.6621767049465993e-08
+0,"Bell test, noise-agnostic threshold",7680,0.49284032310525433
+0,"Bell test, reference-calibrated",7680,0.02897286930461578
+0,"Pauli shadows, noise-aware threshold",7680,0.013888888888888888
+0,"Bell test, noise-aware threshold",15360,4.305418518349485e-14
+0,"Bell test, noise-agnostic threshold",15360,0.4944135629657938
+0,"Bell test, reference-calibrated",15360,0.010069314902956311
+0,"Pauli shadows, noise-aware threshold",15360,0.013888888888888888
+1,"Bell test, noise-aware threshold",60,0.3144344539655388
+1,"Bell test, noise-agnostic threshold",60,0.4134268133468446
+1,"Bell test, reference-calibrated",60,0.38473401049466516
+1,"Pauli shadows, noise-aware threshold",60,0.4722222222222222
+1,"Bell test, noise-aware threshold",120,0.24278592922873643
+1,"Bell test, noise-agnostic threshold",120,0.40673229790077253
+1,"Bell test, reference-calibrated",120,0.35152477973152074
+1,"Pauli shadows, noise-aware threshold",120,0.41666666666666663
+1,"Bell test, noise-aware threshold",240,0.16005928384956347
+1,"Bell test, noise-agnostic threshold",240,0.41955945844998493
+1,"Bell test, reference-calibrated",240,0.29419430773152266
+1,"Pauli shadows, noise-aware threshold",240,0.3819444444444444
+1,"Bell test, noise-aware threshold",480,0.07983325323071637
+1,"Bell test, noise-agnostic threshold",480,0.446638152067894
+1,"Bell test, reference-calibrated",480,0.22991375595760857
+1,"Pauli shadows, noise-aware threshold",480,0.3888888888888889
+1,"Bell test, noise-aware threshold",960,0.02415152265366733
+1,"Bell test, noise-agnostic threshold",960,0.47463373316455243
+1,"Bell test, reference-calibrated",960,0.17008630903058447
+1,"Pauli shadows, noise-aware threshold",960,0.25
+1,"Bell test, noise-aware threshold",1920,0.0029812763695819516
+1,"Bell test, noise-agnostic threshold",1920,0.4950759819572011
+1,"Bell test, reference-calibrated",1920,0.12854964685158898
+1,"Pauli shadows, noise-aware threshold",1920,0.1388888888888889
+1,"Bell test, noise-aware threshold",3840,7.520591107531798e-05
+1,"Bell test, noise-agnostic threshold",3840,0.4995462972285705
+1,"Bell test, reference-calibrated",3840,0.086885151695238
+1,"Pauli shadows, noise-aware threshold",3840,0.09722222222222221
+1,"Bell test, noise-aware threshold",7680,1.0271737573874465e-07
+1,"Bell test, noise-agnostic threshold",7680,0.49998802090414046
+1,"Bell test, reference-calibrated",7680,0.04229330833293182
+1,"Pauli shadows, noise-aware threshold",7680,0.013888888888888888
+1,"Bell test, noise-aware threshold",15360,4.645128442618008e-13
+1,"Bell test, noise-agnostic threshold",15360,0.49999998189545897
+1,"Bell test, reference-calibrated",15360,0.017068017127862087
+1,"Pauli shadows, noise-aware threshold",15360,0.0
+2,"Bell test, noise-aware threshold",60,0.30576592596113716
+2,"Bell test, noise-agnostic threshold",60,0.40859629495512634
+2,"Bell test, reference-calibrated",60,0.3779802807242696
+2,"Pauli shadows, noise-aware threshold",60,0.4722222222222222
+2,"Bell test, noise-aware threshold",120,0.2320426875475759
+2,"Bell test, noise-agnostic threshold",120,0.40086023824967887
+2,"Bell test, reference-calibrated",120,0.3427500408055226
+2,"Pauli shadows, noise-aware threshold",120,0.35416666666666663
+2,"Bell test, noise-aware threshold",240,0.14866011092484935
+2,"Bell test, noise-agnostic threshold",240,0.4124440382544106
+2,"Bell test, reference-calibrated",240,0.2785016723378842
+2,"Pauli shadows, noise-aware threshold",240,0.4166666666666667
+2,"Bell test, noise-aware threshold",480,0.0706404185452381
+2,"Bell test, noise-agnostic threshold",480,0.4378505883589617
+2,"Bell test, reference-calibrated",480,0.21649758799019866
+2,"Pauli shadows, noise-aware threshold",480,0.3472222222222222
+2,"Bell test, noise-aware threshold",960,0.019612193585417288
+2,"Bell test, noise-agnostic threshold",960,0.46462745561016855
+2,"Bell test, reference-calibrated",960,0.15757721877214453
+2,"Pauli shadows, noise-aware threshold",960,0.25
+2,"Bell test, noise-aware threshold",1920,0.0020590360957229627
+2,"Bell test, noise-agnostic threshold",1920,0.48745976623535087
+2,"Bell test, reference-calibrated",1920,0.11657914678270608
+2,"Pauli shadows, noise-aware threshold",1920,0.19444444444444442
+2,"Bell test, noise-aware threshold",3840,3.160550662591749e-05
+2,"Bell test, noise-agnostic threshold",3840,0.4955647552977149
+2,"Bell test, reference-calibrated",3840,0.07579141776391726
+2,"Pauli shadows, noise-aware threshold",3840,0.13194444444444445
+2,"Bell test, noise-aware threshold",7680,1.321804663700798e-08
+2,"Bell test, noise-agnostic threshold",7680,0.49864105675210985
+2,"Bell test, reference-calibrated",7680,0.02798322002095091
+2,"Pauli shadows, noise-aware threshold",7680,0.013888888888888888
+2,"Bell test, noise-aware threshold",15360,4.937374628040774e-15
+2,"Bell test, noise-agnostic threshold",15360,0.4997428135218573
+2,"Bell test, reference-calibrated",15360,0.006539946366018078
+2,"Pauli shadows, noise-aware threshold",15360,0.006944444444444444
+3,"Bell test, noise-aware threshold",60,0.30822551754502164
+3,"Bell test, noise-agnostic threshold",60,0.4095729500716702
+3,"Bell test, reference-calibrated",60,0.3793572750159936
+3,"Pauli shadows, noise-aware threshold",60,0.45138888888888884
+3,"Bell test, noise-aware threshold",120,0.23517676075864918
+3,"Bell test, noise-agnostic threshold",120,0.4019053030086309
+3,"Bell test, reference-calibrated",120,0.3444290029448173
+3,"Pauli shadows, noise-aware threshold",120,0.4236111111111111
+3,"Bell test, noise-aware threshold",240,0.15197194897423366
+3,"Bell test, noise-agnostic threshold",240,0.41368144551128916
+3,"Bell test, reference-calibrated",240,0.2849555169380874
+3,"Pauli shadows, noise-aware threshold",240,0.4375
+3,"Bell test, noise-aware threshold",480,0.07330089519775795
+3,"Bell test, noise-agnostic threshold",480,0.43970994534994196
+3,"Bell test, reference-calibrated",480,0.21528279505597575
+3,"Pauli shadows, noise-aware threshold",480,0.3819444444444444
+3,"Bell test, noise-aware threshold",960,0.020939583331699263
+3,"Bell test, noise-agnostic threshold",960,0.4673789938833441
+3,"Bell test, reference-calibrated",960,0.15633768622658695
+3,"Pauli shadows, noise-aware threshold",960,0.2361111111111111
+3,"Bell test, noise-aware threshold",1920,0.0023376871910584596
+3,"Bell test, noise-agnostic threshold",1920,0.4899038141756444
+3,"Bell test, reference-calibrated",1920,0.10579421959106655
+3,"Pauli shadows, noise-aware threshold",1920,0.16666666666666669
+3,"Bell test, noise-aware threshold",3840,4.8178116588634565e-05
+3,"Bell test, noise-agnostic threshold",3840,0.4965018751046564
+3,"Bell test, reference-calibrated",3840,0.07389459069123713
+3,"Pauli shadows, noise-aware threshold",3840,0.16666666666666669
+3,"Bell test, noise-aware threshold",7680,4.232129546475128e-08
+3,"Bell test, noise-agnostic threshold",7680,0.49869746564382283
+3,"Bell test, reference-calibrated",7680,0.034579920171638724
+3,"Pauli shadows, noise-aware threshold",7680,0.048611111111111105
+3,"Bell test, noise-aware threshold",15360,8.35815762986822e-14
+3,"Bell test, noise-agnostic threshold",15360,0.49972264171248254
+3,"Bell test, reference-calibrated",15360,0.010803793141330393
+3,"Pauli shadows, noise-aware threshold",15360,0.006944444444444444
+4,"Bell test, noise-aware threshold",60,0.30871111538924806
+4,"Bell test, noise-agnostic threshold",60,0.40954044396974293
+4,"Bell test, reference-calibrated",60,0.3826120869918951
+4,"Pauli shadows, noise-aware threshold",60,0.45138888888888884
+4,"Bell test, noise-aware threshold",120,0.23595493062250195
+4,"Bell test, noise-agnostic threshold",120,0.4016421949685985
+4,"Bell test, reference-calibrated",120,0.3449356139791954
+4,"Pauli shadows, noise-aware threshold",120,0.4722222222222222
+4,"Bell test, noise-aware threshold",240,0.1533218775404205
+4,"Bell test, noise-agnostic threshold",240,0.4131349261783097
+4,"Bell test, reference-calibrated",240,0.28263704945162366
+4,"Pauli shadows, noise-aware threshold",240,0.45138888888888884
+4,"Bell test, noise-aware threshold",480,0.07489964118701536
+4,"Bell test, noise-agnostic threshold",480,0.4389696673679945
+4,"Bell test, reference-calibrated",480,0.22372475805578326
+4,"Pauli shadows, noise-aware threshold",480,0.32638888888888884
+4,"Bell test, noise-aware threshold",960,0.022030976233945898
+4,"Bell test, noise-agnostic threshold",960,0.4665946045428447
+4,"Bell test, reference-calibrated",960,0.16073985724786227
+4,"Pauli shadows, noise-aware threshold",960,0.2222222222222222
+4,"Bell test, noise-aware threshold",1920,0.0027142111871595294
+4,"Bell test, noise-agnostic threshold",1920,0.48950305293407803
+4,"Bell test, reference-calibrated",1920,0.11979885165152152
+4,"Pauli shadows, noise-aware threshold",1920,0.1736111111111111
+4,"Bell test, noise-aware threshold",3840,7.95335999412497e-05
+4,"Bell test, noise-agnostic threshold",3840,0.4964931360225247
+4,"Bell test, reference-calibrated",3840,0.07344663792357065
+4,"Pauli shadows, noise-aware threshold",3840,0.07638888888888888
+4,"Bell test, noise-aware threshold",7680,1.8166172721862684e-07
+4,"Bell test, noise-agnostic threshold",7680,0.49877686644749736
+4,"Bell test, reference-calibrated",7680,0.03877246794308186
+4,"Pauli shadows, noise-aware threshold",7680,0.020833333333333332
+4,"Bell test, noise-aware threshold",15360,1.8782443541744433e-12
+4,"Bell test, noise-agnostic threshold",15360,0.49975593474098684
+4,"Bell test, reference-calibrated",15360,0.014543477950680775
+4,"Pauli shadows, noise-aware threshold",15360,0.006944444444444444

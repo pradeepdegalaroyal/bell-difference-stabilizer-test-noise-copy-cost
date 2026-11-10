@@ -1,0 +1,15 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+title: "Copy Cost of Bell-Difference-Sampling Stabilizer Testing Under Dephasing, Depolarising and Readout Noise"
+authors:
+  - family-names: "Degala"
+    given-names: "Chenchupradeep"
+version: "0.1.0"
+date-released: "2026-11-10"
+license: MIT
+repository-code: "https://github.com/pradeepdegalaroyal/bell-difference-stabilizer-test-noise-copy-cost"
+keywords:
+  - quantum property testing
+  - stabilizer testing
+  - Bell difference sampling
+  - noise robustness
